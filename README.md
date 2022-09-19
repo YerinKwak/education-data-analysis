@@ -2,7 +2,7 @@
 Education Data Science Portfolio
 
 # Project 1: Student Grade Prediction
-### Purpose: Creat a tool that predict students' grade to help 
+## Created a tool that predict students' grade to help 
 ### Data: 
 
 ![](/images/Grade_Prediction.png)
@@ -23,7 +23,7 @@ Education Data Science Portfolio
 
 
 # Project 2: Personalized recommendation of children's books
-### Purpose: Created a tool that recommends books of the same age group with similar main ideas to each child's favorite books
+## Created a tool that recommends books of the same age group with similar main ideas to each child's favorite books
 ### Data: [](https://www.kaggle.com/datasets/modhiibrahimalmannaa/1000-children-books-on-amazom)
 ### Method
 1. Feature Engineering
