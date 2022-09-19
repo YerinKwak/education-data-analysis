@@ -5,7 +5,7 @@ Education Data Science Portfolio
 ### Purpose: Creat a tool that predict students' grade to help 
 ### Data: 
 
-![Grade Prediction](https://github.com/YerinKwak/Yerin_Education/blob/main/Images/Grade%20Prediction.png)
+![Grade Prediction](/Images/Grade%20Prediction.png)
 
 1. Exploratory Data Analysis
  * Analyzed data sets using graphs and heatmap to find overall pattern, outliers, and correlations
