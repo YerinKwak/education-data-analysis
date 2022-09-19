@@ -1,7 +1,7 @@
 # Yerin_Education
 Education Data Science Portfolio
 
-# Project 1: Student Grade Prediction
+# 💯 Project 1: Student Grade Prediction 
 ## Created a tool that predict students' grade to help 
 ### Data: 
 
@@ -22,7 +22,8 @@ Education Data Science Portfolio
  * Visualized the actual score and the predicted one to compare both
 
 
-# Project 2: Personalized recommendation of children's books
+
+# :books: Project 2: Personalized recommendation of children's books
 ## Created a tool that recommends books of the same age group with similar main ideas to each child's favorite books
 ### Data: [Data_source](https://www.kaggle.com/datasets/modhiibrahimalmannaa/1000-children-books-on-amazom)
 ### Method
