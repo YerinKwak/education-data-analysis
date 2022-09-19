@@ -24,7 +24,7 @@ Education Data Science Portfolio
 
 # Project 2: Personalized recommendation of children's books
 ## Created a tool that recommends books of the same age group with similar main ideas to each child's favorite books
-### Data: [data_source](https://www.kaggle.com/datasets/modhiibrahimalmannaa/1000-children-books-on-amazom)
+### Data: [Data_source](https://www.kaggle.com/datasets/modhiibrahimalmannaa/1000-children-books-on-amazom)
 ### Method
 1. Feature Engineering
  * Regex function: Cleaned texts from 'age' & 'description' features using regex function
