@@ -2,8 +2,8 @@
 Education Data Science Portfolio
 
 # Project 1: Student Grade Prediction
-* Purpose: Creat a tool that predict students' grade to help 
-* Data: 
+### Purpose: Creat a tool that predict students' grade to help 
+### Data: 
 1. Exploratory Data Analysis
  * Analyzed data sets using graphs and heatmap to find overall pattern, outliers, and correlations
 2. Feature Engineering
