@@ -1,5 +1,5 @@
-# Yerin_Education
-Education Data Science Portfolio
+# Education-Data-Analysis
+These projects aim to improve learning outcomes by leveraging student data to provide personalized educational support.
 
 # 💯 Project 1: Student Grade Prediction 
 ## Personalized grade prediction system to maximize individual learning outcomes 
