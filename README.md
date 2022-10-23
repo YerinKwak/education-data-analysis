@@ -3,7 +3,7 @@ Education Data Science Portfolio
 
 # 💯 Project 1: Student Grade Prediction 
 ## Created a tool that predict students' grade to help 
-### Data: 
+### Data: https://archive.ics.uci.edu/ml/datasets/student+performance
 
 ![](/images/Grade_Prediction.png)
 
