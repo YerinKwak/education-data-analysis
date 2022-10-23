@@ -1,7 +1,7 @@
 # Education-Data-Analysis
 These projects aim to improve learning outcomes by leveraging student data to provide personalized educational support.
 
-# 💯 Project 1: Student Grade Prediction 
+# 💯 [Project 1: Student Grade Prediction](https://nbviewer.org/github/YerinKwak/education-data-analysis/blob/main/Student%20Grade%20Prediction%20%28Regression%29.ipynb) 
 ## Personalized grade prediction system to maximize individual learning outcomes 
 ### Data: [Data_Source](https://archive.ics.uci.edu/ml/datasets/student+performance)
 
