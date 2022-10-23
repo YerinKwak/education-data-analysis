@@ -23,7 +23,8 @@ Education Data Science Portfolio
  * Compared RMSE of each model (Best model: 1.59)
  * Visualized the actual scores and the predicted ones to compare both
  
-# :books: Project 2: Personalized recommendation of children's books
+ 
+# :books: Project 2: Recommendation of children's books
 ## Created a tool that recommends books of the same age group with similar main ideas to each child's favorite books
 ### Data: [Data_source](https://www.kaggle.com/datasets/modhiibrahimalmannaa/1000-children-books-on-amazom)
 ### Method
