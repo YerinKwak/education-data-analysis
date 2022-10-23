@@ -29,9 +29,12 @@ Education Data Science Portfolio
 ### Data: [Data_source](https://www.kaggle.com/datasets/modhiibrahimalmannaa/1000-children-books-on-amazom)
 ### Method
 1. Feature Engineering
- * Regex function: Cleaned texts from 'age' & 'description' features using regex function
+ * Text cleaning: Cleaned texts from 'age' & 'description' features using regex function
  * Concept hierarchy generation: Considered age groups for children's books and the US school system and created age groups for four. 
                                  (i.e., 0-3(Infant, toddler books)/4-7(Picture books for children)/8-11(Chapter books for children)/over12(Young adult books))
  * Weighted rating: Transformed rating to weighted rating using IMDB's former weighted rating equation
-2. Model
+2. Text mining
+ * K-Means clustering: Clustered documents with similar text composition
  * Cosine Similarity: Created a tool that analyzes book descriptions and outputs books with high cosine similarities to the description.
+3. Model
+ * Received a book title, the model will return a list of the top 30 books with the highest cosine similarity and the same age group.
