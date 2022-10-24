@@ -24,7 +24,7 @@ These projects aim to improve learning outcomes by leveraging student data to pr
  * Visualized the actual scores and the predicted ones to compare both
  
  
-# :books: Project 2: Recommendation of children's books
+# :books: [Project 2: Recommendation of children's books](https://nbviewer.org/github/YerinKwak/education-data-analysis/blob/main/Recommend%20Children%27s%20books.ipynb)
 ## Created a tool that recommends books of the same age group with similar main ideas to each child's favorite books
 ### Data: [Data_source](https://www.kaggle.com/datasets/modhiibrahimalmannaa/1000-children-books-on-amazom)
 ### Method
